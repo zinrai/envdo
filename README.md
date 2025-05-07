@@ -21,6 +21,7 @@ Use .env or .envrc from current directory:
 
 ```bash
 $ envdo command [args...]
+```
 
 Specify a custom environment file:
 
